@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JMEDS Basic</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_test">Test</string>
+    <string name="toast_framework_not_running">JMEDS Framework not running.</string>
+</resources>
